@@ -1,0 +1,4 @@
+{
+    "DBHost": "mongodb://127.0.0.1:27017/mevn-boilerplate-test?connectTimeoutMS=1000",
+    "PORT": 8082
+}
